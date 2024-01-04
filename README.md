@@ -1,16 +1,27 @@
-### Hi there 👋
+# About Me
 
-<!--
-**Pranay-Rokade/Pranay-Rokade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Greetings!
 
-Here are some ideas to get you started:
+Hello there! I'm Pranay Rokade, a passionate Computer Science and Engineering student specializing in Data Science .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Enthusiastically exploring the realm of web development, with a keen eye for creating visually appealing and functional websites.
+
+As I navigate the exhilarating journey towards proficiency, I perpetually fuel my progress with an insatiable curiosity, always seeking opportunities to learn and enhance my skills.Constantly updating my skills is a non-stop commitment, an ongoing effort to stay at the forefront of my field and ensure continuous improvement.
+
+## Skills
+
+- **Programming Languages:** HTML, CSS, JavaScript, C, Java, PHP(beginner to intermediate level)
+- **Software and Tools:** Git, GitHub, Laravel, MySQL Database
+- **IDEs:** Visual Studio Code
+
+## Working On
+
+- To gain hands-on experience I am working on my personal Web Development Projects 
+- Contributing to open-source projects to learn from experienced developers and refine my skills
+- Making Some JAVA Applications to keep my knowlegde updated
+
+## Contact Me
+
+LinkedIn : [Click Here to Visit my LinkedIn Profile](https://www.linkedin.com/in/pranay-rokade-2a4399258)
+
+Mail : [Send me an email](pranayrokade86@gmail.com)
