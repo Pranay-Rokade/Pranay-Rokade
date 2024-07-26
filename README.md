@@ -4,21 +4,21 @@
 
 Hello there! I'm Pranay Rokade, a passionate Computer Science and Engineering student specializing in Data Science .
 
-Enthusiastically exploring the realm of web development and Android App Development, with a keen eye for creating visually appealing and functional websites and Apps.
+Enthusiastically exploring the realm of web development and Data Science, with a keen eye for creating visually appealing and functional websites and some Projects.
 
 As I navigate the exhilarating journey towards proficiency, I perpetually fuel my progress with an insatiable curiosity, always seeking opportunities to learn and enhance my skills.Constantly updating my skills is a non-stop commitment, an ongoing effort to stay at the forefront of my field and ensure continuous improvement.
 
 ## Skills
 
-- **Programming Languages:** HTML, CSS, JavaScript, C, Java, PHP(beginner to intermediate level), DART
-- **Software and Tools:** Figma, Git, GitHub, Laravel, Flutter
-- **IDEs:** Visual Studio Code
+- **Programming Languages:** Python(Advanced), HTML, CSS, JavaScript, C, C++, Web Development, Java(beginner), PHP(beginner to intermediate level), DART(beginner),MERN Stack(intermediate),Machine Learning, Artficial Intelligence
+- **Software and Tools:** Tableau, Power BI, Excel, Figma, Git, GitHub, Laravel, Flutter, MySQL
+- **IDEs:** Visual Studio Code, CodeChef(3 Star)
 
 ## Working On
 
 - To gain hands-on experience I am working on my personal Web Development Projects 
 - Contributing to open-source projects to learn from experienced developers and refine my skills
-- Making Some JAVA Applications to keep my knowlegde updated
+- Making Some Data Science Projects like Data Visualization, Data Handling, Data Analytics etc.
 - Building Android Apps using Flutter and DART to keep my hands working.
 
 ## Contact Me
