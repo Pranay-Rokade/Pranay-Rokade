@@ -2,21 +2,19 @@
 
 ## Greetings!
 
-Hello there! I'm Pranay Rokade, a passionate Computer Science and Engineering student specializing in Data Science .
+Hello there! I'm Pranay Rokade, a passionate Computer Science and Engineering student specializing in Data Science with honors in Full Stack Development.
 
-Enthusiastically exploring the realm of web development and Data Science, with a keen eye for creating visually appealing and functional websites and some Projects.
-
-As I navigate the exhilarating journey towards proficiency, I perpetually fuel my progress with an insatiable curiosity, always seeking opportunities to learn and enhance my skills.Constantly updating my skills is a non-stop commitment, an ongoing effort to stay at the forefront of my field and ensure continuous improvement.
+I worked as an enthusiastic and results-driven data science and web development student with a strong foundation in statistical analysis, machine learning, and full-stack web development. Adept at using programming languages such as Python, R, JavaScript, and SQL to extract insights from complex datasets and build dynamic web applications. Proven ability to translate data into actionable business solutions and create user-friendly, responsive websites.
 
 ## Skills
 
-- **Programming Languages:** Python(Advanced), HTML, CSS, JavaScript, C, C++, Web Development, Java(beginner), PHP(beginner to intermediate level), DART(beginner),MERN Stack(intermediate),Machine Learning, Artficial Intelligence
+- **Programming Languages:** Python, R Programming, C, C++, Data Visualization, Data Analysis, SQL, HTML, CSS, JavaScript, React, Node.js, Express.js, Bootstrap, Web Development, Machine Learning, Artificial Intelligence, Natural Language Processing (NLP)
 - **Software and Tools:** Tableau, Power BI, Excel, Figma, Git, GitHub, Laravel, Flutter, MySQL
 - **IDEs:** Visual Studio Code, CodeChef
 
 ## Working On
 
-- To gain hands-on experience I am working on my personal Web Development Projects 
+- To gain hands-on experience I am working on my Web Development Projects 
 - Contributing to open-source projects to learn from experienced developers and refine my skills
 - Making Some Data Science Projects like Data Visualization, Data Handling, Data Analytics etc.
 - Building Android Apps using Flutter and DART to keep my hands working.
