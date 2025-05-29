@@ -1,5 +1,5 @@
 # 💫 Greetings!
-Computer Science and Engineering (Data Science) student with a strong foundation in data analysis, machine learning, and <br>deep learning. Proficient in Python and R, with hands-on experience in data cleaning, visualization, and model development. <br>Completed college-led AWS training, gaining practical exposure to DevOps tools like AWS, Jenkins, Docker, Kuberbetes. <br>Currently exploring advanced ML/DL techniques to build intelligent, data-driven solutions. Eager to apply analytical skills and <br>technical knowledge to solve real-world business problems in a data analytics role. 
+Computer Science and Engineering (Data Science) student with a strong foundation in data analysis, machine learning, and <br>deep learning. Proficient in Python and R, with hands-on experience in data cleaning, visualization, and model development. <br>Completed college-led AWS training, gaining practical exposure to DevOps tools like AWS, Jenkins, Docker, and Kubernetes. <br>Currently exploring advanced ML/DL techniques to build intelligent, data-driven solutions. Eager to apply analytical skills and <br>technical knowledge to solve real-world business problems in a data analytics role. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_its_pranay_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-rokade-2a4399258/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranayrokade86@gmail.com) 
@@ -20,5 +20,3 @@ Computer Science and Engineering (Data Science) student with a strong foundation
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pranay-Rokade&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
