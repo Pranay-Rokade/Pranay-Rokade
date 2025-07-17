@@ -34,7 +34,6 @@ I am a Computer Science and Engineering (Data Science) student with a strong fou
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat\&logo=c%2B%2B\&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat\&logo=dart\&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat\&logo=gnu-bash\&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat\&logo=solidity\&logoColor=white)
 
 ---
 
@@ -91,7 +90,6 @@ I am a Computer Science and Engineering (Data Science) student with a strong fou
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat\&logo=express\&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat\&logo=django\&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat\&logo=flask\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat\&logo=Flutter\&logoColor=white)
 
 ---
 
